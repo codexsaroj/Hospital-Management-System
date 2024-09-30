@@ -1,0 +1,120 @@
+30-Sep-2024 15:45:47.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.25
+30-Sep-2024 15:45:47.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 14 2024 19:31:59 UTC
+30-Sep-2024 15:45:47.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.25.0
+30-Sep-2024 15:45:47.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+30-Sep-2024 15:45:47.309 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+30-Sep-2024 15:45:47.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+30-Sep-2024 15:45:47.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+30-Sep-2024 15:45:47.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+30-Sep-2024 15:45:47.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+30-Sep-2024 15:45:47.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Java Programs\Eclipse-2024\HospitalManagement
+30-Sep-2024 15:45:47.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Java Programs\tomcat\apache-tomcat-10.1.25
+30-Sep-2024 15:45:47.325 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+30-Sep-2024 15:45:47.325 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+30-Sep-2024 15:45:47.325 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+30-Sep-2024 15:45:47.325 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+30-Sep-2024 15:45:47.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+30-Sep-2024 15:45:47.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Java Programs\tomcat\apache-tomcat-10.1.25
+30-Sep-2024 15:45:47.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Java Programs\Eclipse-2024\HospitalManagement
+30-Sep-2024 15:45:47.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Java Programs\Eclipse-2024\HospitalManagement\temp
+30-Sep-2024 15:45:47.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Java Programs\Eclipse-2024\HospitalManagement\conf\logging.properties
+30-Sep-2024 15:45:47.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Sep-2024 15:45:47.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJIdea2024.1.4\lib\idea_rt.jar=62243:C:\Program Files\JetBrains\IntelliJIdea2024.1.4\bin
+30-Sep-2024 15:45:47.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+30-Sep-2024 15:45:47.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+30-Sep-2024 15:45:47.326 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+30-Sep-2024 15:45:47.329 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.7] using APR version [1.7.4].
+30-Sep-2024 15:45:47.336 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+30-Sep-2024 15:45:47.623 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+30-Sep-2024 15:45:47.640 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [514] milliseconds
+30-Sep-2024 15:45:47.685 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+30-Sep-2024 15:45:47.685 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.25]
+30-Sep-2024 15:45:47.694 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Java Programs\Eclipse-2024\HospitalManagement\conf\Catalina\localhost\HospitalManagement.xml]
+30-Sep-2024 15:45:49.250 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+30-Sep-2024 15:45:49.322 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Java Programs\Eclipse-2024\HospitalManagement\conf\Catalina\localhost\HospitalManagement.xml] has finished in [1,627] ms
+30-Sep-2024 15:45:49.324 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+30-Sep-2024 15:45:49.345 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1704] milliseconds
+30-Sep-2024 15:46:10.561 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Sep-2024 15:46:10.564 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+30-Sep-2024 15:46:10.579 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Sep-2024 15:46:10.597 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Sep-2024 15:47:14.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.25
+30-Sep-2024 15:47:14.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 14 2024 19:31:59 UTC
+30-Sep-2024 15:47:14.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.25.0
+30-Sep-2024 15:47:14.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+30-Sep-2024 15:47:14.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+30-Sep-2024 15:47:14.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+30-Sep-2024 15:47:14.914 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+30-Sep-2024 15:47:14.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+30-Sep-2024 15:47:14.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+30-Sep-2024 15:47:14.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Java Programs\Eclipse-2024\HospitalManagement
+30-Sep-2024 15:47:14.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Java Programs\tomcat\apache-tomcat-10.1.25
+30-Sep-2024 15:47:14.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+30-Sep-2024 15:47:14.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+30-Sep-2024 15:47:14.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+30-Sep-2024 15:47:14.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+30-Sep-2024 15:47:14.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+30-Sep-2024 15:47:14.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Java Programs\tomcat\apache-tomcat-10.1.25
+30-Sep-2024 15:47:14.926 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Java Programs\Eclipse-2024\HospitalManagement
+30-Sep-2024 15:47:14.927 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Java Programs\Eclipse-2024\HospitalManagement\temp
+30-Sep-2024 15:47:14.927 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Java Programs\Eclipse-2024\HospitalManagement\conf\logging.properties
+30-Sep-2024 15:47:14.927 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Sep-2024 15:47:14.927 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJIdea2024.1.4\lib\idea_rt.jar=62253:C:\Program Files\JetBrains\IntelliJIdea2024.1.4\bin
+30-Sep-2024 15:47:14.927 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+30-Sep-2024 15:47:14.927 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+30-Sep-2024 15:47:14.927 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+30-Sep-2024 15:47:14.930 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.7] using APR version [1.7.4].
+30-Sep-2024 15:47:14.939 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+30-Sep-2024 15:47:15.233 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+30-Sep-2024 15:47:15.251 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [527] milliseconds
+30-Sep-2024 15:47:15.298 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+30-Sep-2024 15:47:15.298 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.25]
+30-Sep-2024 15:47:15.311 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Java Programs\Eclipse-2024\HospitalManagement\conf\Catalina\localhost\HospitalManagement.xml]
+30-Sep-2024 15:47:16.817 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+30-Sep-2024 15:47:16.879 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Java Programs\Eclipse-2024\HospitalManagement\conf\Catalina\localhost\HospitalManagement.xml] has finished in [1,569] ms
+30-Sep-2024 15:47:16.882 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+30-Sep-2024 15:47:16.904 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1652] milliseconds
+30-Sep-2024 15:47:32.287 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Sep-2024 15:47:32.287 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+30-Sep-2024 15:47:32.303 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Sep-2024 15:47:32.318 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Sep-2024 15:50:18.917 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.25
+30-Sep-2024 15:50:18.921 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 14 2024 19:31:59 UTC
+30-Sep-2024 15:50:18.921 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.25.0
+30-Sep-2024 15:50:18.922 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+30-Sep-2024 15:50:18.922 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+30-Sep-2024 15:50:18.923 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+30-Sep-2024 15:50:18.923 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+30-Sep-2024 15:50:18.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+30-Sep-2024 15:50:18.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+30-Sep-2024 15:50:18.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Java Programs\Eclipse-2024\HospitalManagement
+30-Sep-2024 15:50:18.925 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Java Programs\tomcat\apache-tomcat-10.1.25
+30-Sep-2024 15:50:18.935 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+30-Sep-2024 15:50:18.935 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+30-Sep-2024 15:50:18.935 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+30-Sep-2024 15:50:18.935 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+30-Sep-2024 15:50:18.935 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+30-Sep-2024 15:50:18.936 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Java Programs\tomcat\apache-tomcat-10.1.25
+30-Sep-2024 15:50:18.936 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Java Programs\Eclipse-2024\HospitalManagement
+30-Sep-2024 15:50:18.936 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Java Programs\Eclipse-2024\HospitalManagement\temp
+30-Sep-2024 15:50:18.936 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Java Programs\Eclipse-2024\HospitalManagement\conf\logging.properties
+30-Sep-2024 15:50:18.936 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Sep-2024 15:50:18.936 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJIdea2024.1.4\lib\idea_rt.jar=62290:C:\Program Files\JetBrains\IntelliJIdea2024.1.4\bin
+30-Sep-2024 15:50:18.936 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+30-Sep-2024 15:50:18.936 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+30-Sep-2024 15:50:18.937 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+30-Sep-2024 15:50:18.940 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.7] using APR version [1.7.4].
+30-Sep-2024 15:50:18.948 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+30-Sep-2024 15:50:19.249 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+30-Sep-2024 15:50:19.265 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [532] milliseconds
+30-Sep-2024 15:50:19.316 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+30-Sep-2024 15:50:19.316 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.25]
+30-Sep-2024 15:50:19.325 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Java Programs\Eclipse-2024\HospitalManagement\conf\Catalina\localhost\HospitalManagement.xml]
+30-Sep-2024 15:50:20.841 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+30-Sep-2024 15:50:20.900 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Java Programs\Eclipse-2024\HospitalManagement\conf\Catalina\localhost\HospitalManagement.xml] has finished in [1,575] ms
+30-Sep-2024 15:50:20.904 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+30-Sep-2024 15:50:20.926 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1659] milliseconds
+30-Sep-2024 15:51:00.137 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Sep-2024 15:51:00.140 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+30-Sep-2024 15:51:00.154 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Sep-2024 15:51:00.169 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="el-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../tomcat/apache-tomcat-10.1.25/lib/el-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

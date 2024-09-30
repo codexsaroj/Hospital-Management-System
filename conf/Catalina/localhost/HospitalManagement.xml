@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="D:/Java Programs/Eclipse-2024/HospitalManagement/HospitalManagement/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="D:/Java Programs/Eclipse-2024/HospitalManagement/out/production/HospitalManagement" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="D:/Java Programs/jar_files/jakarta.el-api-4.0.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.el-api-4.0.0.jar"/>
+    <PostResources base="D:/Java Programs/jar_files/jakarta.servlet.jsp.jstl-2.0.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.servlet.jsp.jstl-2.0.0.jar"/>
+    <PostResources base="D:/Java Programs/jar_files/jakarta.servlet.jsp.jstl-api-2.0.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-2.0.0.jar"/>
+    <PostResources base="D:/Java Programs/jar_files/mysql-connector-j-8.4.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/mysql-connector-j-8.4.0.jar"/>
+    <PostResources base="D:/Java Programs/jar_files/javax.servlet.jsp.jstl-api-1.2.1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar"/>
+    <PostResources base="D:/Java Programs/tomcat/apache-tomcat-10.1.25/lib/el-api.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/el-api.jar"/>
+    <PostResources base="D:/Java Programs/tomcat/apache-tomcat-10.1.25/lib/jsp-api.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jsp-api.jar"/>
+    <PostResources base="D:/Java Programs/tomcat/apache-tomcat-10.1.25/lib/servlet-api.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/servlet-api.jar"/>
+  </Resources>
+</Context>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e5983fa-1b19-46dc-a58e-6c00646d69cf" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSP" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2j9C8XFmtsIl5YU2G60bDr2xdUA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Smart Tomcat.Tomcat v10.executor": "Run",
+    "Smart Tomcat.Tomcat: HospitalManagement.executor": "Run",
+    "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java Programs/Eclipse-2024/HospitalManagement",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3248503",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java Programs\Eclipse-2024\HospitalManagement\src\main\webapp\component" />
+      <recent name="D:\Java Programs\Eclipse-2024\HospitalManagement\src\main\webapp" />
+      <recent name="D:\Java Programs\Eclipse-2024\HospitalManagement\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Smart Tomcat.Tomcat: HospitalManagement">
+    <configuration name="Tomcat v10" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="C:\Users\Saroj\.SmartTomcat\HospitalManagement\HospitalManagement" />
+      <option name="contextPath" value="/HospitalManagement" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/10.1.25" />
+          <option name="path" value="$PROJECT_DIR$/../../tomcat/apache-tomcat-10.1.25" />
+          <option name="version" value="10.1.25.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="HospitalManagement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat: HospitalManagement" type="com.poratu.idea.plugins.tomcat" temporary="true">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="D:\Java Programs\Eclipse-2024\HospitalManagement" />
+      <option name="contextPath" value="/HospitalManagement" />
+      <option name="docBase" value="$PROJECT_DIR$/HospitalManagement/src/main/webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/10.1.25" />
+          <option name="path" value="$PROJECT_DIR$/../../tomcat/apache-tomcat-10.1.25" />
+          <option name="version" value="10.1.25.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="HospitalManagement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Smart Tomcat.Tomcat: HospitalManagement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e5983fa-1b19-46dc-a58e-6c00646d69cf" name="Changes" comment="" />
+      <created>1720789748488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720789748488</updated>
+      <workItem from="1720814564354" duration="34000" />
+      <workItem from="1720814605711" duration="628000" />
+      <workItem from="1720815250004" duration="1927000" />
+      <workItem from="1720817331802" duration="2179000" />
+      <workItem from="1720872763020" duration="13068000" />
+      <workItem from="1720904026587" duration="76000" />
+      <workItem from="1720904115293" duration="5000" />
+      <workItem from="1720955533009" duration="9000" />
+      <workItem from="1720955611829" duration="22000" />
+      <workItem from="1720955643846" duration="86000" />
+      <workItem from="1720955737743" duration="175000" />
+      <workItem from="1727690018656" duration="1155000" />
+      <workItem from="1727691183386" duration="651000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
