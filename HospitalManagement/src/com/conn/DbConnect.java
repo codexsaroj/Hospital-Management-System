@@ -13,7 +13,7 @@ public class DbConnect{
             //loading the driver
             Class.forName("com.mysql.cj.jdbc.Driver");
             // creating the connection
-            conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/hospital", "root", "Crockroz434");
+            conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/your_dbname", "Dbusername", "Dbpassword");
 
             return conn;
         } catch (ClassNotFoundException e) {
